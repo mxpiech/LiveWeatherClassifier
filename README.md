@@ -1,6 +1,6 @@
 # Nvidia Jetson Live Video Stream Weather Classifier
 
- This setup includes an Nvidia Jetson Nano and webcam that can classify a live video stream of the sky to classify the weather as cloudy, rain, shine, or sunrise. The dataset of weather images I used for training came from Mendeley Data.
+This setup includes an Nvidia Jetson Nano and webcam that can classify a live video stream of the sky to classify the weather as cloudy, rain, shine, or sunrise. The dataset of weather images I used for training came from Mendeley Data.
 
 ![add image descrition here](direct image link here)
 
